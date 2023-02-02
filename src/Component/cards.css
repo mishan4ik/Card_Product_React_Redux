@@ -1,0 +1,57 @@
+.basic_block_Product{
+
+    margin-bottom: 100px;
+
+}
+
+.block_cards{
+
+    display: flex;
+    justify-content: center;
+
+}
+.Product_card{
+
+    width: 500px;
+    height: 600px;
+    border: 2px solid black;
+    padding-left: 50px;
+    padding-right: 50px;
+    margin-top: 50px;
+    margin-left: 50px;
+
+}
+
+img{
+
+    width: 200px;
+    height: 350px;
+
+}
+.about_seller{
+
+    display: flex;
+    justify-content:space-between;
+
+}
+.block_btn{
+
+    margin-top: 50px;
+
+}
+button{
+
+    width: 150px;
+    height: 100px;
+    background-color: bisque;
+    font-size: 18px;
+    margin-bottom: 50px;
+
+}
+
+input{
+
+    height: 50px;
+    width: 300px;
+
+}
